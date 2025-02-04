@@ -1,6 +1,6 @@
-# Pacman Clone
+# Pacman
 
-This is a simple Pacman clone written in C using the `ncurses` library. The game features Pacman navigating through a maze, avoiding ghosts, and collecting points. It includes a menu system and multiple levels.
+This is a simple Pacman written in C using the `ncurses` library. The game features Pacman navigating through a maze, avoiding ghosts, and collecting points. It includes a menu system and multiple levels.
 
 ## Features
 - Classic Pacman gameplay
