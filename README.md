@@ -11,18 +11,7 @@ This is a simple Pacman clone written in C using the `ncurses` library. The game
 
 ## Installation
 ### Prerequisites
-Ensure you have `gcc` and `ncurses` installed.
-
-#### Ubuntu / Debian:
-```sh
-sudo apt update
-sudo apt install gcc libncurses5-dev libncursesw5-dev
-```
-
-#### macOS:
-```sh
-brew install ncurses
-```
+Ensure you have `gcc` and `ncurses` installed on Windows.
 
 ### Compilation
 ```sh
@@ -32,7 +21,7 @@ gcc main.c render.c game.c ghost.c level.c -o pacman -lncurses
 ## Usage
 Run the compiled program:
 ```sh
-./pacman
+pacman.exe
 ```
 Use arrow keys to move Pacman and `e` to select menu options.
 
